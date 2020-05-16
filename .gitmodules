@@ -1,15 +1,15 @@
 [submodule "CafeApp"]
-	path = CafeApp
+	path = server/CafeApp
 	url = git@github.com:tamizhvendan/CafeApp.git
 [submodule "payroll-calculus"]
-	path = payroll-calculus
+	path = server/payroll-calculus
 	url = git@github.com:oncicaradupopovici/payroll-calculus.git
 [submodule "real-world-fable"]
 	path = real-world-fable
 	url = git@github.com:thitemple/real-world-fable.git
 [submodule "SAFE-BookStore"]
-	path = SAFE-BookStore
+	path = client-server/SAFE-BookStore
 	url = git@github.com:wallymathieu/SAFE-BookStore.git
 [submodule "SuaveMusicStore"]
-	path = SuaveMusicStore
+	path = server/SuaveMusicStore
 	url = git@github.com:theimowski/SuaveMusicStore.git
