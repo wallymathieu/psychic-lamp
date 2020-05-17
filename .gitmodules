@@ -15,4 +15,4 @@
 	url = git@github.com:theimowski/SuaveMusicStore.git
 [submodule "server/Dumia"]
 	path = server/Dumia
-	url = git@github.com:odytrice/Dumia.git
+	url = git@github.com:wallymathieu/Dumia.git 
