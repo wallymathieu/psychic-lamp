@@ -16,3 +16,6 @@
 [submodule "server/Dumia"]
 	path = server/Dumia
 	url = git@github.com:wallymathieu/Dumia.git 
+[submodule "client-server/FBlazorShop"]
+	path = client-server/FBlazorShop
+	url = git@github.com:OnurGumus/FBlazorShop.git
