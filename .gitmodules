@@ -19,3 +19,6 @@
 [submodule "client-server/FBlazorShop"]
 	path = client-server/FBlazorShop
 	url = git@github.com:OnurGumus/FBlazorShop.git
+[submodule "server/DomainModelingMadeFunctional"]
+	path = server/DomainModelingMadeFunctional
+	url = git@github.com:swlaschin/DomainModelingMadeFunctional.git
